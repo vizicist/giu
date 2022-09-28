@@ -3,7 +3,7 @@ package giu
 import (
 	"image/color"
 
-	"github.com/AllenDang/imgui-go"
+	"github.com/vizicist/imgui-go"
 )
 
 // SplitDirection represents a direction (vertical/horizontal) of splitting layout.

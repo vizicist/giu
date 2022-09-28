@@ -1,6 +1,6 @@
 package giu
 
-import "github.com/AllenDang/imgui-go"
+import "github.com/vizicist/imgui-go"
 
 // Here are the style IDs for styling imgui apps.
 // For details about each of attributes read comment above them.

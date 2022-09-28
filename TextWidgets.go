@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/AllenDang/imgui-go"
 	"github.com/sahilm/fuzzy"
+	"github.com/vizicist/imgui-go"
 )
 
 var _ Widget = &InputTextMultilineWidget{}

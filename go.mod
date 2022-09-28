@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/AllenDang/go-findfont v0.0.0-20200702051237-9f180485aeb8
-	github.com/AllenDang/imgui-go v1.12.1-0.20220322114136-499bbf6a42ad
+	github.com/vizicist/imgui-go v1.12.1-0.20220322114136-499bbf6a42ad
 	github.com/faiface/mainthread v0.0.0-20171120011319-8b78f0a41ae3
 	github.com/go-gl/glfw/v3.3/glfw v0.0.0-20220806181222-55e207c401ad
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8

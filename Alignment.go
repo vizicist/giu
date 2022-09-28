@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"image"
 
-	"github.com/AllenDang/imgui-go"
+	"github.com/vizicist/imgui-go"
 )
 
 // AlignmentType represents a bype of alignment to use with AlignSetter.

@@ -10,8 +10,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/AllenDang/imgui-go"
 	"github.com/pkg/browser"
+	"github.com/vizicist/imgui-go"
 )
 
 // LoadImage loads image from file and returns *image.RGBA.

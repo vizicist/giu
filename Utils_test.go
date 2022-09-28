@@ -5,8 +5,8 @@ import (
 	"image/color"
 	"testing"
 
-	"github.com/AllenDang/imgui-go"
 	"github.com/stretchr/testify/assert"
+	"github.com/vizicist/imgui-go"
 )
 
 func Test_ToVec4(t *testing.T) {

@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	"github.com/AllenDang/go-findfont"
-	"github.com/AllenDang/imgui-go"
+	"github.com/vizicist/imgui-go"
 )
 
 const (

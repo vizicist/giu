@@ -6,9 +6,9 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/AllenDang/imgui-go"
 	"github.com/faiface/mainthread"
 	"github.com/go-gl/glfw/v3.3/glfw"
+	"github.com/vizicist/imgui-go"
 	"gopkg.in/eapache/queue.v1"
 )
 

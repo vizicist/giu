@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/AllenDang/imgui-go"
 	"github.com/faiface/mainthread"
+	"github.com/vizicist/imgui-go"
 )
 
 // MarkdownWidget implements DearImGui markdown extension

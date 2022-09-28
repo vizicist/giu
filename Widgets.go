@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"image/color"
 
-	"github.com/AllenDang/imgui-go"
+	"github.com/vizicist/imgui-go"
 )
 
 // GenAutoID automatically generates fidget's id.

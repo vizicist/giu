@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/AllenDang/imgui-go"
+	"github.com/vizicist/imgui-go"
 	"gopkg.in/eapache/queue.v1"
 )
 

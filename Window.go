@@ -3,7 +3,7 @@ package giu
 import (
 	"fmt"
 
-	"github.com/AllenDang/imgui-go"
+	"github.com/vizicist/imgui-go"
 )
 
 // SingleWindow creates one window filling all available space

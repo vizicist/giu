@@ -1,6 +1,6 @@
 package giu
 
-import "github.com/AllenDang/imgui-go"
+import "github.com/vizicist/imgui-go"
 
 // MouseButton represents imgui.MoseButton.
 type MouseButton int

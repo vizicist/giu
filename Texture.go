@@ -5,8 +5,8 @@ import (
 	"image"
 	"runtime"
 
-	"github.com/AllenDang/imgui-go"
 	"github.com/faiface/mainthread"
+	"github.com/vizicist/imgui-go"
 )
 
 // Texture represents imgui.TextureID.

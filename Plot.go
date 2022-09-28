@@ -3,7 +3,7 @@ package giu
 import (
 	"image"
 
-	"github.com/AllenDang/imgui-go"
+	"github.com/vizicist/imgui-go"
 )
 
 // PlotWidget is implemented by all the particular plots, which can be used

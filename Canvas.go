@@ -4,13 +4,14 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/AllenDang/imgui-go"
+	"github.com/vizicist/imgui-go"
 )
 
 // Canvas represents imgui.DrawList
 // from imgui.h:
-//       A single draw command list (generally one per window,
-//       conceptually you may see this as a dynamic "mesh" builder)
+//
+//	A single draw command list (generally one per window,
+//	conceptually you may see this as a dynamic "mesh" builder)
 //
 // for more details and use cases see examples/canvas.
 type Canvas struct {

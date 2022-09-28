@@ -5,7 +5,7 @@ import (
 	"image"
 	"time"
 
-	"github.com/AllenDang/imgui-go"
+	"github.com/vizicist/imgui-go"
 )
 
 var _ Widget = &HSplitterWidget{}
