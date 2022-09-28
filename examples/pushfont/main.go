@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/AllenDang/giu"
+	"github.com/vizicist/giu"
 )
 
 var font *giu.FontInfo

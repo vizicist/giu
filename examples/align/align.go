@@ -1,6 +1,6 @@
 package main
 
-import "github.com/AllenDang/giu"
+import "github.com/vizicist/giu"
 
 var text string
 

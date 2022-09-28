@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/AllenDang/giu"
-	g "github.com/AllenDang/giu"
+	"github.com/vizicist/giu"
+	g "github.com/vizicist/giu"
 	"github.com/vizicist/imgui-go"
 )
 

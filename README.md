@@ -1,10 +1,10 @@
 # giu
 
-[![codecov](https://codecov.io/gh/AllenDang/giu/branch/master/graph/badge.svg)](https://codecov.io/gh/AllenDang/giu)
+[![codecov](https://codecov.io/gh/vizicist/giu/branch/master/graph/badge.svg)](https://codecov.io/gh/vizicist/giu)
 [![Join the chat at https://gitter.im/AllenDang-giu/community](https://badges.gitter.im/AllenDang-giu/community.svg)](https://gitter.im/AllenDang-giu/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Go Report Card](https://goreportcard.com/badge/github.com/AllenDang/giu)](https://goreportcard.com/report/github.com/AllenDang/giu)
-![Build Status](https://github.com/AllenDang/giu/actions/workflows/build.yml/badge.svg)
-[![Godoc Card](https://camo.githubusercontent.com/fd3cd5d5f44237541b35fcfdcba2fd4466a60c12/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f646f632d7265666572656e63652d626c75652e737667)](https://pkg.go.dev/github.com/AllenDang/giu?tab=doc)
+[![Go Report Card](https://goreportcard.com/badge/github.com/vizicist/giu)](https://goreportcard.com/report/github.com/vizicist/giu)
+![Build Status](https://github.com/vizicist/giu/actions/workflows/build.yml/badge.svg)
+[![Godoc Card](https://camo.githubusercontent.com/fd3cd5d5f44237541b35fcfdcba2fd4466a60c12/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f646f632d7265666572656e63652d626c75652e737667)](https://pkg.go.dev/github.com/vizicist/giu?tab=doc)
 
 A rapid cross-platform GUI framework for Go based on [Dear ImGui](https://github.com/ocornut/imgui) and the great Go binding [imgui-go](https://github.com/inkyblackness/imgui-go).
 
@@ -41,9 +41,9 @@ Compared to other Dear ImGui golang bindings, giu has the following features:
 - Drop in usage; no need to implement render and platform.
 - OS clipboard support.
 
-![Screenshot](https://github.com/AllenDang/giu/raw/master/examples/imguidemo/screenshot.png)
-![Screenshot1](https://github.com/AllenDang/giu/blob/master/screenshots/SqlPower.png)
-![Screenshot2](https://github.com/AllenDang/giu/blob/master/screenshots/Chart.png)
+![Screenshot](https://github.com/vizicist/giu/raw/master/examples/imguidemo/screenshot.png)
+![Screenshot1](https://github.com/vizicist/giu/blob/master/screenshots/SqlPower.png)
+![Screenshot2](https://github.com/vizicist/giu/blob/master/screenshots/Chart.png)
 
 ## Hello world
 
@@ -53,7 +53,7 @@ package main
 import (
 	"fmt"
 
-	g "github.com/AllenDang/giu"
+	g "github.com/vizicist/giu"
 )
 
 func onClickMe() {
@@ -82,7 +82,7 @@ func main() {
 
 Here is the result:
 
-![Helloworld](https://github.com/AllenDang/giu/raw/master/examples/helloworld/helloworld.png)
+![Helloworld](https://github.com/vizicist/giu/raw/master/examples/helloworld/helloworld.png)
 
 ## Quick introduction
 
@@ -128,14 +128,14 @@ The backend of giu depends on OpenGL 3.3, make sure your environment supports it
 
 ```sh
 xcode-select --install
-go get github.com/AllenDang/giu
+go get github.com/vizicist/giu
 ```
 
 ### Windows
 
 1. Install mingw [download here](https://github.com/brechtsanders/winlibs_mingw/releases/latest). Thanks @alchem1ster!
 2. Add the binaries folder of mingw to the path (usually is _\mingw64\bin_).
-3. go get github.com/AllenDang/giu
+3. go get github.com/vizicist/giu
 
 Or, install [TDM-GCC](https://jmeubank.github.io/tdm-gcc/).
 
@@ -212,7 +212,7 @@ rm YourExeName.rc
 
 ## Documentation
 
-Check [Wiki](https://github.com/AllenDang/giu/wiki)
+Check [Wiki](https://github.com/vizicist/giu/wiki)
 
 ## Contribution
 

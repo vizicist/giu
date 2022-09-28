@@ -3,7 +3,7 @@ package main
 import (
 	"strings"
 
-	"github.com/AllenDang/giu"
+	"github.com/vizicist/giu"
 )
 
 var (
@@ -39,10 +39,10 @@ func getExampleMarkdownText() string {
 		"    * Unordered List level 2",
 		"",
 		"Link:",
-		"Here is [a link to some cool website!](https://github.com/AllenDang/giu) you must click it!",
+		"Here is [a link to some cool website!](https://github.com/vizicist/giu) you must click it!",
 		"Image:",
 		"![gopher image](./gopher.png)",
-		"![gopher image link](https://raw.githubusercontent.com/AllenDang/giu/master/examples/loadimage/gopher.png)",
+		"![gopher image link](https://raw.githubusercontent.com/vizicist/giu/master/examples/loadimage/gopher.png)",
 		"",
 		"Horizontal Rule:",
 		"***",

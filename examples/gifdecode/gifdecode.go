@@ -7,7 +7,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/AllenDang/giu"
+	"github.com/vizicist/giu"
 )
 
 //go:embed golang.gif

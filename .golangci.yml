@@ -19,7 +19,7 @@ linters-settings:
   gocyclo:
     min-complexity: 15
   goimports:
-    local-prefixes: github.com/AllenDang/giu
+    local-prefixes: github.com/vizicist/giu
   govet:
     check-shadowing: true
   # lll:

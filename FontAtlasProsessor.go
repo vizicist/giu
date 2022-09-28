@@ -7,7 +7,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/AllenDang/go-findfont"
+	"github.com/vizicist/go-findfont"
 	"github.com/vizicist/imgui-go"
 )
 

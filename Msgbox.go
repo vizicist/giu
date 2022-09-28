@@ -96,7 +96,7 @@ const msgboxID string = "###Msgbox"
 
 // PrepareMsgbox should be invoked in function in the same layout level where you call g.Msgbox.
 // BUG: calling this more than 1 time per frame causes unexpected
-// merging msgboxes layouts (see https://github.com/AllenDang/giu/issues/290)
+// merging msgboxes layouts (see https://github.com/vizicist/giu/issues/290)
 func PrepareMsgbox() Layout {
 	return Layout{
 		Custom(func() {

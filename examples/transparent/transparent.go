@@ -4,7 +4,7 @@ import (
 	"image"
 	"image/color"
 
-	g "github.com/AllenDang/giu"
+	g "github.com/vizicist/giu"
 	"github.com/vizicist/imgui-go"
 )
 

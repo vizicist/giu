@@ -162,11 +162,11 @@ func (a *AlignmentSetter) Build() {
 //
 // here is a list of known bugs:
 // - BUG: user can interact with invisible widget (created by GetWidgetWidth)
-//   - https://github.com/AllenDang/giu/issues/341
+//   - https://github.com/vizicist/giu/issues/341
 //   - https://github.com/ocornut/imgui/issues/4588
 //
 // if you find anything else, please report it on
-// https://github.com/AllenDang/giu Any contribution is appreciated!
+// https://github.com/vizicist/giu Any contribution is appreciated!
 func GetWidgetWidth(w Widget) (result float32) {
 	imgui.PushID(GenAutoID("GetWIdgetWidthMeasurement"))
 	defer imgui.PopID()
